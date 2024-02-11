@@ -1,5 +1,5 @@
 # Simple-Gravity-Simulator-Game
-Simple mini-game where you can place planets and watch them interact via newtonian physics
+Simple mini-game where you can place planets and watch them interact via Newton's Universal Law of Gravitation. Note that you can add velocity to the planets when placing them by clicking and dragging (kinda like angry birds).
 
 ![Gravity simulator](media/graphics/title1.png)
 ![controls](media/graphics/instructions.png)
