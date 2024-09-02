@@ -10,5 +10,6 @@ Music composed by me.
 Run main.py to play the game (ensure you have pygame installed on your device, pip install pygame).
 
 Below is a video that shows a preview of the game:
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YhzWjuvxiGQ/0.jpg)](https://www.youtube.com/watch?v=YhzWjuvxiGQ)
 
